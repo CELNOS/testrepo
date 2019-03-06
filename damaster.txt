@@ -3,7 +3,7 @@ This is just to test out github's GUI and options
 Let's try it out!!!!
 
 editing the master
-and comitting
+and committing
 
 adding more that i really want
 
@@ -11,3 +11,4 @@ created a branch called unicorn.... how does this look?
 
 
 ok now im gonna go crazy with branches....=P
+  commit even more... wait just noticed that i have a spelling error above...
